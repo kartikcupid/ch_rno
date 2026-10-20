@@ -1,0 +1,10 @@
+# Heavy, machine-side or linked (see README, "HPC"); Results/ is report
+# material and is committed.
+Work/
+Archive/
+env
+env/
+__pycache__/
+.pytest_cache/
+*.partial.npz
+*.partial.npy
